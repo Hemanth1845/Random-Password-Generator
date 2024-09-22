@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(247, 243, 243);
+    font-family: verdana;
+    text-align: center;
+}
+form{
+   
+    border-radius: 12px;
+    width: 450PX;
+    height: 380px;
+   border-radius: 20px;
+    margin:auto;
+    background-color: white;
+    box-shadow: 5px 5px 10px;
+    padding: 25px;
+}
+p{
+    font-weight: bold;
+    color:red;
+    font-size: 20px;
+    font-style: italic;
+}
